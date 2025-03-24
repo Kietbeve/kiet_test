@@ -1,0 +1,46 @@
+D:\Project_QliSieuThi\Project_QliSieuThi\Project_QliSieuThi\bin\Debug\Project_QliSieuThi.exe.config
+D:\Project_QliSieuThi\Project_QliSieuThi\Project_QliSieuThi\bin\Debug\Project_QliSieuThi.exe
+D:\Project_QliSieuThi\Project_QliSieuThi\Project_QliSieuThi\bin\Debug\Project_QliSieuThi.pdb
+D:\Project_QliSieuThi\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.csproj.AssemblyReference.cache
+D:\Project_QliSieuThi\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.fLogin.resources
+D:\Project_QliSieuThi\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.Properties.Resources.resources
+D:\Project_QliSieuThi\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.csproj.GenerateResource.cache
+D:\Project_QliSieuThi\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.csproj.CoreCompileInputs.cache
+D:\Project_QliSieuThi\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.exe
+D:\Project_QliSieuThi\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.pdb
+D:\Project_QliSieuThi\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.fManager.resources
+D:\Project_QliSieuThi\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.fViewInfoNhanVien.resources
+D:\Project_QliSieuThi\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.Views.fImportGoods.resources
+D:\Project_QliSieuThi\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.Views.fGoodsUpdate.resources
+D:\Project_QliSieuThi\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.Views.fStaffUpdate.resources
+D:\Project_QliSieuThi\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.Views.fViewInfoGoods.resources
+D:\Project_QliSieuThi\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.Views.fTypeGoods.resources
+D:\Project_QliSieuThi\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.Views.fAddTypeGoods.resources
+D:\Project_QliSieuThi\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.Views.fUpdateTypeGoods.resources
+D:\Project_QliSieuThi\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.Views.fJobStaff.resources
+D:\Project_QliSieuThi\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.Views.fAddJobStaff.resources
+D:\Project_QliSieuThi\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.Views.fUpdateJobStaff.resources
+D:\Project_QliSieuThi\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.Views.fAddStaff.resources
+D:\học về c#\Project_QliSieuThi - 80%Views\Project_QliSieuThi\Project_QliSieuThi\bin\Debug\Project_QliSieuThi.exe.config
+D:\học về c#\Project_QliSieuThi - 80%Views\Project_QliSieuThi\Project_QliSieuThi\bin\Debug\Project_QliSieuThi.exe
+D:\học về c#\Project_QliSieuThi - 80%Views\Project_QliSieuThi\Project_QliSieuThi\bin\Debug\Project_QliSieuThi.pdb
+D:\học về c#\Project_QliSieuThi - 80%Views\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.csproj.AssemblyReference.cache
+D:\học về c#\Project_QliSieuThi - 80%Views\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.Views.fAddJobStaff.resources
+D:\học về c#\Project_QliSieuThi - 80%Views\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.Views.fAddStaff.resources
+D:\học về c#\Project_QliSieuThi - 80%Views\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.Views.fAddTypeGoods.resources
+D:\học về c#\Project_QliSieuThi - 80%Views\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.Views.fGoodsUpdate.resources
+D:\học về c#\Project_QliSieuThi - 80%Views\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.Views.fImportGoods.resources
+D:\học về c#\Project_QliSieuThi - 80%Views\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.Views.fJobStaff.resources
+D:\học về c#\Project_QliSieuThi - 80%Views\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.fLogin.resources
+D:\học về c#\Project_QliSieuThi - 80%Views\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.fManager.resources
+D:\học về c#\Project_QliSieuThi - 80%Views\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.Views.fStaffUpdate.resources
+D:\học về c#\Project_QliSieuThi - 80%Views\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.Views.fTypeGoods.resources
+D:\học về c#\Project_QliSieuThi - 80%Views\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.Views.fUpdateJobStaff.resources
+D:\học về c#\Project_QliSieuThi - 80%Views\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.Views.fUpdateTypeGoods.resources
+D:\học về c#\Project_QliSieuThi - 80%Views\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.Properties.Resources.resources
+D:\học về c#\Project_QliSieuThi - 80%Views\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.Views.fViewInfoGoods.resources
+D:\học về c#\Project_QliSieuThi - 80%Views\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.fViewInfoNhanVien.resources
+D:\học về c#\Project_QliSieuThi - 80%Views\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.csproj.GenerateResource.cache
+D:\học về c#\Project_QliSieuThi - 80%Views\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.csproj.CoreCompileInputs.cache
+D:\học về c#\Project_QliSieuThi - 80%Views\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.exe
+D:\học về c#\Project_QliSieuThi - 80%Views\Project_QliSieuThi\Project_QliSieuThi\obj\Debug\Project_QliSieuThi.pdb
